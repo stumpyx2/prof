@@ -1,0 +1,71 @@
+<!-- The content for this document was sourced from https://www.oaic.gov.au/privacy/data-breaches/what-is-a-notifiable-data-breach/ on 03/03/2021 and is used for educational purposes only.
+-->
+
+What is a notifiable data breach? | OAIC
+
+TWA Week 2 Practical Exercises
+my student ID
+[Exercise 4 | exercise4.html] [Exercise 5 | exercise5.html] [Exercise 7 | exercise7.html]
+
+Notifiable Data Breaches Scheme
+
+What is a notifiable data breach?
+Under the [Notifiable Data Breaches scheme | https://www.oaic.gov.au/privacy/notifiable-data-breaches/], an organisation or agency that must comply with Australian privacy law has to tell you if a [data breach | exercise4.html] is likely to cause you serious harm.
+
+Examples of serious harm include:
+-identity theft, which can affect your finances and credit report
+-financial loss through fraud
+-a likely risk of physical harm, such as by an abusive ex-partner
+-serious psychological harm
+-serious harm to an individual’s reputation
+
+An organisation or agency must also tell us about a serious data breach.
+
+Generally, an organisation or agency has 30 days to assess whether a data breach is likely to result in serious harm.
+
+When a data breach occurs, we expect an organisation or agency to try to reduce the chance that an individual experiences harm. If they’re successful, and the data breach is not likely to result in serious harm, the organisation or agency doesn’t need to tell the individual about the data breach.
+
+How you’ll be told of a data breach
+An organisation or agency may tell you about a data breach in an email, text message or phone call. The notification should include:
+-the organisation or agency’s name and contact details
+-the kinds of [personal information | https://www.oaic.gov.au/privacy/your-privacy-rights/your-personal-information/what-is-personal-information/] involved in the breach
+-a description of the data breach
+-recommendations for the steps you can take in response
+
+If an organisation or agency isn’t able to contact everyone they need to, they must put the data breach notification on their website. They must also promote this data breach notification, for example, through social media, news articles or advertisements.
+
+Find out [what to do when you get a data breach notification | exercise5.html].
+
+If you think you’ve not been told about a data breach
+If you think that a data breach may affect your personal information and you’ve not been told, contact the organisation or agency that experienced the breach and ask them for information about the data breach (including whether your personal information was affected).
+
+If they don’t respond to your complaint, or you’re not satisfied with their response, you may [complain to us | https://www.oaic.gov.au/privacy/data-breaches/make-a-data-breach-complaint/].
+
+How to spot a phishing scam
+A phishing scam is an attempt by scammers to trick you into giving them your personal information, such as your bank account details or passwords.
+
+Avoid clicking on links in emails, or sharing your personal information on the phone or by email, unless you’re certain the organisation or agency that has contacted you is genuine. Contact the organisation or agency instead through publicly available contact details (such as the phone book or their website).
+
+For more information about protecting yourself against scams, visit [Scamwatch | https://www.scamwatch.gov.au/]
+
+Related
+[Notifiable Data Breaches Report July to December 2020 | exercise7.html]
+Statistical information about notifications received under the Notifiable Data Breaches (NDB) scheme
+
+[Responding to a data breach notification | exercise5.html]
+Take action quickly to reduce your risk of harassment
+
+[Tips to protect your My Health record | https://www.oaic.gov.au/privacy/health-information/my-health-record/tips-to-protect-your-my-health-record/]
+How to safeguard your health Information
+
+[Identity fraud | https://www.oaic.gov.au/privacy/data-breaches/identity-fraud/]
+What to do if your identity has been stolen
+
+
+[Next Page | exercise7.html]
+
+Acknowledgement of Country
+We acknowledge the traditional custodians of Australia and their continuing connection to land, sea and community. We pay our respects to the people, the cultures and the elders past, present and emerging.
+
+All material presented on this website is provided under a [Creative Commons Attribution 3.0 Australia licence | https://creativecommons.org/licenses/by/3.0/au/legalcode].
+All material presented on this website is sourced from Office of the Australian Information Commissioner — [www.oaic.gov.au | https://www.oaic.gov.au/]

@@ -1,0 +1,39 @@
+<!-- The content for this document was sourced from https://www.oaic.gov.au/privacy/data-breaches/what-is-a-data-breach/ on 03/03/2021 and is used for educational purposes only.
+-->
+
+What is a data breach? | OAIC
+
+TWA Week 2 Practical Exercises
+my student ID
+[Exercise 5 | exercise5.html] [Exercise 6 | exercise6.html] [Exercise 7 | exercise7.html]
+
+Notifiable Data Breaches Scheme
+
+What is a data breach?
+A data breach happens when [personal information | https://www.oaic.gov.au/privacy/your-privacy-rights/your-personal-information/what-is-personal-information/] is accessed, disclosed without authorisation, or is lost. For example, when:
+-a USB or mobile phone that holds a individual’s personal information is stolen
+-a database containing personal information is hacked
+-someone’s personal information is sent to the wrong person
+
+A data breach can harm an individual whose personal information is affected. They can, for example, suffer distress or financial loss.
+
+There are [things you can do | exercise5.html] to reduce your risk of harm. And, there’s help available if you suffer distress.
+
+Related
+[What is a notifiable data breach? | exercise6.html]
+A data breach that may cause serious harm must be reported
+
+[Responding to a data breach notification | exercise5.html]
+Take action quickly to reduce your risk of harassment
+
+[Data breach support and resources | https://www.oaic.gov.au/privacy/data-breaches/data-breach-support-and-resources/]
+Where to get support, and other resources
+
+
+[Next Page | exercise5.html]
+
+Acknowledgement of Country
+We acknowledge the traditional custodians of Australia and their continuing connection to land, sea and community. We pay our respects to the people, the cultures and the elders past, present and emerging.
+
+All material presented on this website is provided under a [Creative Commons Attribution 3.0 Australia licence | https://creativecommons.org/licenses/by/3.0/au/legalcode].
+All material presented on this website is sourced from Office of the Australian Information Commissioner — [www.oaic.gov.au | https://www.oaic.gov.au/]
