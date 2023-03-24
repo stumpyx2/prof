@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta content="width=device-width, initial-scale=1" name="viewport">
+
+        <title>Totally Wonder Awnings Quotation Request</title>
+       <link rel="stylesheet" type="text/css" href="quoteForm.css">
+    </head>
+
+    <body>
+
+ <!-- COMPLETE FORM ATTRIBUTES!!! url  -->
+        <form id="orderForm" name="orderForm" method="post"
+        action="https://twatr1.cdms.westernsydney.edu.au/twainfo/form.asp">
+
+            <h1>Totally Wonder Awnings Quotation Request</h1>
+            <h2>Providing high-quality awnings and blinds to customers all over the Sydney region for the past 30 years.</h2>
+
+<!-- SALESPERSON DETAILS -->
+            <fieldset>
+                <legend>Salesperson Details</legend>
+                
+                <label for="dateQuote">Date of Quote:</label>
+                <input id="dateQuote" type="date"><br><br>
+                
+                <label for="staffName">Salesperson's Name</label>
+                <input id="staffName" name="staffName" type="text" required>
+            
+                <label for="staffId">Salesperson's ID:</label>
+                <input id="staffId" name="staffId" type="number" required>	
+            </fieldset>
+
+
+<!-- CUSTOMER DETAILS -->
+            <fieldset>
+                <legend>Customer Details</legend>
+                <div>
+                    <label for="title">Title</label> 
+                    <select id="title" name="title">
+                        <option value="Dr">Dr</option>
+                        <option value="Mx">Mx</option>
+                        <option value="Miss">Miss</option>
+                        <option value="Mrs">Mrs</option>
+                        <option value="Mr">Mr</option>
+                        <option value="Rev">Rev</option>
+                        <option value="Hon">Hon</option>
+                    </select>
+                </div>
+
+                <div>
+                    <label for="firstName">First name</label>
+                    <input id="firstName" name="firstName" type="text" required>
+                </div>
+
+                <div>
+                    <label for="lastName">Surname</label>
+                    <input id="lastName" name="lastName" type="text" required><br><br>
+                </div>
+
+                <p>Address</p>
+                <div>
+                    <label for="street">Street Address</label>
+                    <input id="street" name="street" type="text">
+                </div>
+
+                <div>
+                    <label for="suburb">Suburb</label>
+                    <input id="suburb" name="suburb" type="text">
+                </div>
+
+                <div>
+                    <label for="postcode">Postcode</label>
+                    <input id="postcode" name="postcode" type="text" maxlength="4">
+                </div>
+
+                <div>
+                    <label for="phone">Phone number</label>
+                    <input id="phone" name="phone" type="tel">
+                </div>  
+
+                <div>
+                    <label for="email">Email Address</label>
+                    <input id="email" name="email" type="email">
+                </div>
+            </fieldset>
+
+<!-- /* product details: product ID, Product Name/Description, quantity, unit price, line total
+  (up to 5 products can be quoted on the form)   -->
+
+            <fieldset>   
+                <legend>Product Details</legend>   
+                <div>
+                    <label for="productId">Product Id</label>
+                    <input id="productId" name="productId" type="text">
+                </div>
+
+                <div>
+                    <label for="prodName">Description</label>
+                    <input id="prodName" name="prodName" type="text" required>
+                </div>
+
+                <div>
+                    <label for="quantity">Quantity:</label>
+                    <input id="quantity" name="quantity" type="number" min="1" required>
+                </div>
+
+                <div>
+                    <label for="unitPrice">Unit Price</label>
+                    <input id="unitPrice" name="unitPrice" type="number" required>
+                </div>
+
+                <div>
+                    <label for="lineTotal">Line Total</label>
+                    <input id="lineTotal" name="lineTotal" type="number" required>
+                </div>
+            </fieldset>
+
+<!-- installation notes -->
+            <fieldset>
+                <legend>Installation Details</legend>
+                <div>                
+                    <label for="installNotes">Installation Notes</label>
+                    <textarea id="installNotes"></textarea>
+                </div>
+
+                <div>                
+                    <label for="dateInstall">Requested install date</label>
+                    <input id="dateInstall" type="date"><br>
+                </div>
+            
+                <div>                
+                    <label for="subtotal">Subtotal</label>
+                    <input id="subtotal" type="number"><br>
+                </div>
+                
+                <div>                
+                    <label for="gst">GST</label>
+                    <input id="gst" type="number"><br>
+                </div>
+
+                <div>                
+                    <label for="total">Total "$"</label>
+                    <input id="total" type="number"><br>
+                </div>
+
+                <div>                
+                    <label for="deposit">Less deposit paid</label>
+                    <input id="deposit" type="number"><br>
+                </div>
+
+                <div>                
+                    <label for="totalDue">Total Due</label>
+                    <input id="totalDue" type="number"><br>
+                </div>
+            </fieldset><br>
+
+<!-- SUBMIT -->            
+            <p><input type="submit" value="Submit Order"></p>
+        </form>
+
+
+
+    </body>
+</html>
+
+
+
+
+
